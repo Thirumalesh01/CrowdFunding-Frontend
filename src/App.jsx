@@ -7,7 +7,7 @@ import Signup from './pages/Signup';
 import Dashboard from './pages/Dashboard';
 import CampaignDetails from './pages/CampaignDetails';
 import CreateCampaign from './pages/CreateCampaign';
-import AboutUs from './pages/Aboutus';
+import AboutUs from './pages/AboutUs';
 
 function App() {
   return (
